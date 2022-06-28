@@ -1,6 +1,6 @@
-var nombre= "Anderson";
+var nombre = "Anderson";
 console.log(nombre);
 
-
-nombre='Juan';
+//variable nombre
+nombre = "Juan";
 console.log(nombre);
